@@ -1,4 +1,4 @@
-# Diabetes Risk Prediction — Machine Learning Project
+# Diabetes Risk Prediction - Machine Learning Project
 
 ## Overview
 
